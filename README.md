@@ -3,3 +3,6 @@ This is a collection of Kaggle notebooks in which the performance of deep learni
 
 1. Stellar classification: ANN/CNN v XGBClassifier
    https://www.kaggle.com/code/lorresprz/stellar-classification-ann-cnn-v-xgbclassifier
+
+2. ANN/CNN/RandomForest: Predicting nice weather
+   https://www.kaggle.com/lorresprz/ann-cnn-randomforest-predicting-nice-weather
