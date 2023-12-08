@@ -6,3 +6,7 @@ This is a collection of Kaggle notebooks in which the performance of deep learni
 
 2. ANN/CNN/RandomForest: Predicting nice weather
    https://www.kaggle.com/lorresprz/ann-cnn-randomforest-predicting-nice-weather
+
+3. Spark tree-based methods: Weather prediction
+   https://www.kaggle.com/code/lorresprz/spark-tree-based-methods-weather-prediction
+   This notebook uses the same dataset as the #2 notebook above, but Spark ML library was used to create an ML model
